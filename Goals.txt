@@ -1,27 +1,7 @@
 Things to add to the board:
 
 MAIN MCU - DONE
-USB C POWER -
-I2C Accelerometer -
-I2C Gyroscope (Check Price) -   
-UART TO USB C (ambishious, optional) -
+USB C POWER - DONE
+I2C MPU6050 -DONE   
+UART TO USB C (ambishious, optional) - DISCARDED PLAN
 
-    100n (etc) cap on each power pin to ground
-
-    Connect all the power pins to a 3.3V etc line. VDD*, VBAT etc
-
-    Connect all ground AKA VSS pins to ground.
-
-    Connect the SWDIO, SWCLK, and NRST pins to a header you can connect to an ST-LINK. Probably also a 3v3 and ground pin on that header.
-
-    100n cap between nrst and ground.
-
-    Connect HSE and LSE crystals if you want.
-
-    Wire Boot0 to ground, or to a button that lets you momentarily connect it high.
-
-    HSE Crystal freq can be whatever, as long as it's MHz order of magnitude. It's optional, depending on your use case. LSE freq must be 32.768kHz.
-
-    You can do either, but the dongle will make debugging much easier.
-
-    Check the RM and datasheet. 3v3 is fine. So is lower and higher, but I don't remember how much.
