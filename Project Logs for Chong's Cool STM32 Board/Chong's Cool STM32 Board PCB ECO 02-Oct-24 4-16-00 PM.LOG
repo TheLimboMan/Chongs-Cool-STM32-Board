@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J1 Old Footprint=MOLEX KK 0022272061 New Footprint=HARWIN M20-7820645
+Change Component Footprint: Designator=J2 Old Footprint=MOLEX KK 0022272061 New Footprint=HARWIN M20-7820645
+Change Component Comment : Designator=J1 Old Comment=0022272061 New Comment=M20-7820642
+Change Component Comment : Designator=J2 Old Comment=0022272061 New Comment=M20-7820642
