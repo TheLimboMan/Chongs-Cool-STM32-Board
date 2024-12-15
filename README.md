@@ -7,8 +7,6 @@ This board contains 3 buttons, a MPU-6050 connected up through I2C, USB-C connec
 Everything is work in progress at the moment
 ## Roadmap
 
-- Proceed to PCB Routing
-
 - Write the appropriate firmware
 
 - Write documentation for said firmware
