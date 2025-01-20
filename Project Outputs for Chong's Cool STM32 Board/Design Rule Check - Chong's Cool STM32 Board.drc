@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\user\Documents\Altium\Chongs-Cool-STM32-Board\Chong's Cool STM32 Board.PcbDoc
 Date     : 21-Jan-25
-Time     : 3:26:29 AM
+Time     : 3:47:45 AM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -342,4 +342,4 @@ Rule Violations :0
 
 Violations Detected : 294
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
