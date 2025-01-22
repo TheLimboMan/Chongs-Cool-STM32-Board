@@ -12,3 +12,8 @@ Everything is work in progress at the moment
 - Write documentation for said firmware
 
 - Add Example programs
+
+## Pictures
+![alt text](https://github.com/TheLimboMan/Chongs-Cool-STM32-Board/blob/main/Pictures/Chong's%20Cool%20STM32%20Full.png "Full Schematics")
+![alt text](https://github.com/TheLimboMan/Chongs-Cool-STM32-Board/blob/main/Pictures/Chong's%20Cool%20STM32%20Main%20MPU.png "Main MPU")
+
