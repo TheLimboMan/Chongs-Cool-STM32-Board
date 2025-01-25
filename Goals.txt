@@ -1,7 +1,0 @@
-Things to add to the board:
-
-MAIN MCU - DONE
-USB C POWER - DONE
-I2C MPU6050 -DONE   
-UART TO USB C (ambishious, optional) - DISCARDED PLAN
-
