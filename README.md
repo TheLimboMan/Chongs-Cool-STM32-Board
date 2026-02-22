@@ -5,15 +5,12 @@ This is my own custom STM32F411CEU6 Board made as an exercise for learning how t
 This board contains 3 buttons, a MPU-6050 connected up through I2C, USB-C connector for power and data, and in total 12 GPIO pins
 
 Everything is work in progress at the moment
-## Roadmap
-
-- Write the appropriate firmware
-
-- Write documentation for said firmware
-
-- Add Example programs
 
 ## Pictures
+
+**Final Assembled PCB** ||||
+---|---|---|:---:
+![FinalAssembled4](https://github.com/user-attachments/assets/1765fd1d-7581-442d-bd76-a0343e9a160c)|![FinalAssembled3](https://github.com/user-attachments/assets/b2dfff80-3691-4490-98ca-161206a02414)|![FinalAssembled2](https://github.com/user-attachments/assets/49a9875c-37de-4eeb-aa91-c5a150cd4a7d)|![FinalAssembled1](https://github.com/user-attachments/assets/feb1e471-b86a-4bac-8f49-cd160262843e)
 
 **Title** | **Picture**
 ---|:---:
@@ -28,6 +25,3 @@ PCB Bottom Layer |![Chong's Cool STM32 PCB Bottom](https://github.com/user-attac
 3D Bottom View |![Chong's Cool STM32 3D Bottom](https://github.com/user-attachments/assets/72e6cdaf-f0b3-41bc-8748-8af620d55c65)
 3D Top View with Full Silkscreen |![Chong's Cool STM32 PCB Top with Silkscreen](https://github.com/user-attachments/assets/a8b6f28d-5614-44ea-a97d-f1ce8a0c8cab)
 3D Bottom View with Full Silkscreen |![Chong's Cool STM32 PCB Bottom with Silkscreen](https://github.com/user-attachments/assets/3f532bf6-7ff7-44b5-94aa-4f4a9ed62106)
-
-
-
